@@ -12,6 +12,7 @@
 
 ### I am Umut Berk Bilgiç
 - Astrophysics, maths, and computer science nerd,
+- I like jazz and coffee but I promise I am not a douchebag,
 - Computer Engineering Bachelors degree, currently doing my masters in Distributed Software Systems in TU Darmstadt,
 - Love working on side projects and throwing something together as a prototype (and probably come back to it a year later...),
 - Currently working part-time as a software developer at Inkubator 100 Plus GmbH & Co. KG
