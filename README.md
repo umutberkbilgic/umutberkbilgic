@@ -1,14 +1,14 @@
 <a href="https://twitter.com/umutberkbilgic">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Umut's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/umut-berk-bilgic/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Umut's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/umutberkbilgic">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Umut's Github (wow recursion)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://cdn.vox-cdn.com/thumbor/Jf4AJjRQ-5L0cfzjhZlqHEUyrHY=/0x0:480x270/920x613/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/60136969/D8149AD7_75AC_4177_B8F7_273F4ED1F587.0.gif" />
+<img align="right" style="width: 40%;" alt="GIF" src="https://c.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif" />
 
 ### I am Umut Berk Bilgiç
 - Astrophysics, maths, economics and computer science nerd,
