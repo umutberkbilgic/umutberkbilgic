@@ -11,8 +11,8 @@
 <img align="right" alt="GIF" src="https://cdn.vox-cdn.com/thumbor/Jf4AJjRQ-5L0cfzjhZlqHEUyrHY=/0x0:480x270/920x613/filters:focal(202x97:278x173):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/60136969/D8149AD7_75AC_4177_B8F7_273F4ED1F587.0.gif" />
 
 ### I am Umut Berk Bilgiç
-- Astrophysics, maths, and computer science nerd,
-- I like jazz and coffee but I promise I am not a douchebag,
-- Computer Engineering Bachelors degree, currently doing my masters in Distributed Software Systems in TU Darmstadt,
-- Love working on side projects and throwing something together as a prototype (and probably come back to it a year later...),
-- Currently working part-time as a software developer at Inkubator 100 Plus GmbH & Co. KG
+- Astrophysics, maths, economics and computer science nerd,
+- I like jazz, whiskey and coffee but I promise I am not a douchebag,
+- Computer Science Bachelors degree, currently doing my masters in Distributed Software Systems in TU Darmstadt,
+- Love working on side projects and throwing something together as a prototype (and probably never looking at it again),
+- Currently working part-time as a software developer at Inkubator 100 Plus GmbH & Co. KG where we develop trading and asset management strategies.
