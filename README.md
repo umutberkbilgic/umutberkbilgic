@@ -10,9 +10,8 @@
 <br />
 <img align="right" style="width: 40%;" alt="GIF" src="https://c.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif" />
 
-### I am Umut Berk Bilgiç
-- Astrophysics, maths, economics and computer science nerd,
-- I like jazz, whiskey and coffee but I promise I am not a douchebag,
-- Computer Science Bachelors degree, currently doing my masters in Distributed Software Systems in TU Darmstadt,
-- Love working on side projects and throwing something together as a prototype (and probably never looking at it again),
+### Hey there
+- Doing my masters right now in TU Darmstadt,
+- I like jazz,
+- I like to procrastinate,
 - Currently working part-time as a software developer at Inkubator 100 Plus GmbH & Co. KG where we develop trading and asset management strategies.
