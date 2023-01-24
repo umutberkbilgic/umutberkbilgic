@@ -8,7 +8,7 @@
   <img align="left" alt="Umut's Github (wow recursion)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" style="width: 40%;" alt="GIF" src="https://c.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif" />
+<img align="right" style="width: 100%;" alt="GIF" src="https://github.com/umutberkbilgic/umutberkbilgic/blob/main/op.gif" />
 
 ### Hey there
 - Doing my masters right now in TU Darmstadt,
